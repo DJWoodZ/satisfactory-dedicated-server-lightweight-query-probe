@@ -1,5 +1,5 @@
-Satisfactory Dedicated Server Query Port Probe
-==============================================
+Satisfactory Dedicated Server Lightweight Query Probe
+=====================================================
 
 A zero dependency Node.js library for probing the Lightweight Query API of a [Satisfactory Dedicated Server](https://satisfactory.fandom.com/wiki/Dedicated_servers).
 
