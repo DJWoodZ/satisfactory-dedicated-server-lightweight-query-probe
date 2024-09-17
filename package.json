@@ -1,0 +1,30 @@
+{
+  "name": "@djwoodz/satisfactory-dedicated-server-lightweight-query-probe",
+  "version": "0.1.0",
+  "description": "A zero dependency Node.js library for probing the Lightweight Query API of a Satisfactory Dedicated Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx eslint \"**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJWoodZ/satisfactory-dedicated-server-lightweight-query-probe.git"
+  },
+  "keywords": [
+    "Satisfactory",
+    "Dedicated Server",
+    "Lightweight Query API",
+    "Query Port"
+  ],
+  "author": "DJ WoodZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DJWoodZ/satisfactory-dedicated-server-lightweight-query-probe/issues"
+  },
+  "homepage": "https://github.com/DJWoodZ/satisfactory-dedicated-server-lightweight-query-probe#readme",
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.30.0"
+  }
+}
